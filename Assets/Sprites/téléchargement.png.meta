@@ -1,0 +1,2053 @@
+fileFormatVersion: 2
+guid: 5e66a1a00a5bd8948b2913444c7b9cd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6643452661266350797
+    second: "t\xE9l\xE9chargement_0"
+  - first:
+      213: -686980736844846136
+    second: "t\xE9l\xE9chargement_1"
+  - first:
+      213: -8180011862939442504
+    second: "t\xE9l\xE9chargement_2"
+  - first:
+      213: 696631716842952711
+    second: "t\xE9l\xE9chargement_3"
+  - first:
+      213: -8830485494245535480
+    second: "t\xE9l\xE9chargement_4"
+  - first:
+      213: 6698037625870012331
+    second: "t\xE9l\xE9chargement_5"
+  - first:
+      213: -4615167320337970634
+    second: "t\xE9l\xE9chargement_6"
+  - first:
+      213: 6761712479335494565
+    second: "t\xE9l\xE9chargement_7"
+  - first:
+      213: 3299744477184210506
+    second: "t\xE9l\xE9chargement_8"
+  - first:
+      213: 8679677523652582229
+    second: "t\xE9l\xE9chargement_9"
+  - first:
+      213: -7626419633891104808
+    second: "t\xE9l\xE9chargement_10"
+  - first:
+      213: 8951319654855248125
+    second: "t\xE9l\xE9chargement_11"
+  - first:
+      213: -4869103424362349592
+    second: "t\xE9l\xE9chargement_12"
+  - first:
+      213: 6455605977680996939
+    second: "t\xE9l\xE9chargement_13"
+  - first:
+      213: -957201579070080155
+    second: "t\xE9l\xE9chargement_14"
+  - first:
+      213: -3744208766513957196
+    second: "t\xE9l\xE9chargement_15"
+  - first:
+      213: 1986481635442246196
+    second: "t\xE9l\xE9chargement_16"
+  - first:
+      213: -9533910281065364
+    second: "t\xE9l\xE9chargement_17"
+  - first:
+      213: 1520621448306275536
+    second: "t\xE9l\xE9chargement_18"
+  - first:
+      213: -6235807291181897952
+    second: "t\xE9l\xE9chargement_19"
+  - first:
+      213: 4857325113292805411
+    second: "t\xE9l\xE9chargement_20"
+  - first:
+      213: -5139933110419556344
+    second: "t\xE9l\xE9chargement_21"
+  - first:
+      213: 5534950181511004094
+    second: "t\xE9l\xE9chargement_22"
+  - first:
+      213: -5134494680581558547
+    second: "t\xE9l\xE9chargement_23"
+  - first:
+      213: 4875676227128057954
+    second: "t\xE9l\xE9chargement_24"
+  - first:
+      213: 4453697606370445328
+    second: "t\xE9l\xE9chargement_25"
+  - first:
+      213: 7895176486061972705
+    second: "t\xE9l\xE9chargement_26"
+  - first:
+      213: -8951134956813044782
+    second: "t\xE9l\xE9chargement_27"
+  - first:
+      213: 8932026916014412759
+    second: "t\xE9l\xE9chargement_28"
+  - first:
+      213: -116016426043183897
+    second: "t\xE9l\xE9chargement_29"
+  - first:
+      213: 1170694999459591606
+    second: "t\xE9l\xE9chargement_30"
+  - first:
+      213: -5202296197603549341
+    second: "t\xE9l\xE9chargement_31"
+  - first:
+      213: 9184444927790066315
+    second: "t\xE9l\xE9chargement_32"
+  - first:
+      213: 8380080278050234208
+    second: "t\xE9l\xE9chargement_33"
+  - first:
+      213: 8796500031453308152
+    second: "t\xE9l\xE9chargement_34"
+  - first:
+      213: 2402372953900441087
+    second: "t\xE9l\xE9chargement_35"
+  - first:
+      213: 1432201826845955592
+    second: "t\xE9l\xE9chargement_36"
+  - first:
+      213: 8895227395236514393
+    second: "t\xE9l\xE9chargement_37"
+  - first:
+      213: 3989127792751119726
+    second: "t\xE9l\xE9chargement_38"
+  - first:
+      213: 1731213557456203220
+    second: "t\xE9l\xE9chargement_39"
+  - first:
+      213: 8200288933432729107
+    second: "t\xE9l\xE9chargement_40"
+  - first:
+      213: 993884851148776103
+    second: "t\xE9l\xE9chargement_41"
+  - first:
+      213: -3843270782086015844
+    second: "t\xE9l\xE9chargement_42"
+  - first:
+      213: -5912467015439127235
+    second: "t\xE9l\xE9chargement_43"
+  - first:
+      213: -2420815686281246460
+    second: "t\xE9l\xE9chargement_44"
+  - first:
+      213: -1052089862573870845
+    second: "t\xE9l\xE9chargement_45"
+  - first:
+      213: -4491942178959863330
+    second: "t\xE9l\xE9chargement_46"
+  - first:
+      213: -1613156121883004721
+    second: "t\xE9l\xE9chargement_47"
+  - first:
+      213: 1009880083405110187
+    second: "t\xE9l\xE9chargement_48"
+  - first:
+      213: 39908778531995608
+    second: "t\xE9l\xE9chargement_49"
+  - first:
+      213: -7964697664099283596
+    second: "t\xE9l\xE9chargement_50"
+  - first:
+      213: 5522315722951412925
+    second: "t\xE9l\xE9chargement_51"
+  - first:
+      213: -8580960180935704495
+    second: "t\xE9l\xE9chargement_52"
+  - first:
+      213: -1240878729489574610
+    second: "t\xE9l\xE9chargement_53"
+  - first:
+      213: -5517980105266670801
+    second: "t\xE9l\xE9chargement_54"
+  - first:
+      213: 3563658785558891782
+    second: "t\xE9l\xE9chargement_55"
+  - first:
+      213: -7639755724173491917
+    second: "t\xE9l\xE9chargement_56"
+  - first:
+      213: -1867341050288459413
+    second: "t\xE9l\xE9chargement_57"
+  - first:
+      213: -6404404109954106237
+    second: "t\xE9l\xE9chargement_58"
+  - first:
+      213: -926528656874051656
+    second: "t\xE9l\xE9chargement_59"
+  - first:
+      213: -7793571485759357897
+    second: "t\xE9l\xE9chargement_60"
+  - first:
+      213: -9044236628691137455
+    second: "t\xE9l\xE9chargement_61"
+  - first:
+      213: -5421969754192997303
+    second: "t\xE9l\xE9chargement_62"
+  - first:
+      213: 3372889830968062959
+    second: "t\xE9l\xE9chargement_63"
+  - first:
+      213: 7970531349447781389
+    second: "t\xE9l\xE9chargement_64"
+  - first:
+      213: -1581215854264337846
+    second: "t\xE9l\xE9chargement_65"
+  - first:
+      213: -6705945848274236965
+    second: "t\xE9l\xE9chargement_66"
+  - first:
+      213: -1070949407077938146
+    second: "t\xE9l\xE9chargement_67"
+  - first:
+      213: -1653069332902061079
+    second: "t\xE9l\xE9chargement_68"
+  - first:
+      213: -1444461371793906421
+    second: "t\xE9l\xE9chargement_69"
+  - first:
+      213: 3386630006604987861
+    second: "t\xE9l\xE9chargement_70"
+  - first:
+      213: -6646358009392823951
+    second: "t\xE9l\xE9chargement_71"
+  - first:
+      213: -6166751267288052872
+    second: "t\xE9l\xE9chargement_72"
+  - first:
+      213: 8770173359167252455
+    second: "t\xE9l\xE9chargement_73"
+  - first:
+      213: 7438331214395477864
+    second: "t\xE9l\xE9chargement_74"
+  - first:
+      213: 3921164011182694620
+    second: "t\xE9l\xE9chargement_75"
+  - first:
+      213: 5976883456326373704
+    second: "t\xE9l\xE9chargement_76"
+  - first:
+      213: -9003343950818277688
+    second: "t\xE9l\xE9chargement_77"
+  - first:
+      213: 4434238521828350890
+    second: "t\xE9l\xE9chargement_78"
+  - first:
+      213: -6357722062879614522
+    second: "t\xE9l\xE9chargement_79"
+  - first:
+      213: 8868285651514817042
+    second: "t\xE9l\xE9chargement_80"
+  - first:
+      213: 6221834909864066784
+    second: "t\xE9l\xE9chargement_81"
+  - first:
+      213: 948829993807781048
+    second: "t\xE9l\xE9chargement_82"
+  - first:
+      213: 7987280047184880451
+    second: "t\xE9l\xE9chargement_83"
+  - first:
+      213: -4318225091023788634
+    second: "t\xE9l\xE9chargement_84"
+  - first:
+      213: -8573099729237475241
+    second: "t\xE9l\xE9chargement_85"
+  - first:
+      213: 64800862252607544
+    second: "t\xE9l\xE9chargement_86"
+  - first:
+      213: -7086544512056522014
+    second: "t\xE9l\xE9chargement_87"
+  - first:
+      213: 9160654728690840355
+    second: "t\xE9l\xE9chargement_88"
+  - first:
+      213: 5066997274747526108
+    second: "t\xE9l\xE9chargement_89"
+  - first:
+      213: -5731015166209640571
+    second: "t\xE9l\xE9chargement_90"
+  - first:
+      213: -5721721852913943518
+    second: "t\xE9l\xE9chargement_91"
+  - first:
+      213: 3213780695681009029
+    second: "t\xE9l\xE9chargement_92"
+  - first:
+      213: 2111994412244703416
+    second: "t\xE9l\xE9chargement_93"
+  - first:
+      213: 627924496305726247
+    second: "t\xE9l\xE9chargement_94"
+  - first:
+      213: -3704445455048513686
+    second: "t\xE9l\xE9chargement_95"
+  - first:
+      213: 5583420527150165995
+    second: "t\xE9l\xE9chargement_96"
+  - first:
+      213: -9126675995968291940
+    second: "t\xE9l\xE9chargement_97"
+  - first:
+      213: -8819896413559553233
+    second: "t\xE9l\xE9chargement_98"
+  - first:
+      213: -2777492668965737899
+    second: "t\xE9l\xE9chargement_99"
+  - first:
+      213: 274822648935228201
+    second: "t\xE9l\xE9chargement_100"
+  - first:
+      213: 3277200326893311645
+    second: "t\xE9l\xE9chargement_101"
+  - first:
+      213: -343940134220776023
+    second: "t\xE9l\xE9chargement_102"
+  - first:
+      213: -8337875585700172943
+    second: "t\xE9l\xE9chargement_103"
+  - first:
+      213: 1411819787060469923
+    second: "t\xE9l\xE9chargement_104"
+  - first:
+      213: 9007646001028145767
+    second: "t\xE9l\xE9chargement_105"
+  - first:
+      213: 1138606924792555928
+    second: "t\xE9l\xE9chargement_106"
+  - first:
+      213: 4795693893951279876
+    second: "t\xE9l\xE9chargement_107"
+  - first:
+      213: -9106352246875600726
+    second: "t\xE9l\xE9chargement_108"
+  - first:
+      213: -3589848225683272537
+    second: "t\xE9l\xE9chargement_109"
+  - first:
+      213: 8420779020518369662
+    second: "t\xE9l\xE9chargement_110"
+  - first:
+      213: -5585468458955983681
+    second: "t\xE9l\xE9chargement_111"
+  - first:
+      213: -5839213374552168022
+    second: "t\xE9l\xE9chargement_112"
+  - first:
+      213: 103155171799764311
+    second: "t\xE9l\xE9chargement_113"
+  - first:
+      213: 3300963222082587614
+    second: "t\xE9l\xE9chargement_114"
+  - first:
+      213: 5348982888420376431
+    second: "t\xE9l\xE9chargement_115"
+  - first:
+      213: -4295242477605266095
+    second: "t\xE9l\xE9chargement_116"
+  - first:
+      213: -2648766392272377664
+    second: "t\xE9l\xE9chargement_117"
+  - first:
+      213: -6774298961055378517
+    second: "t\xE9l\xE9chargement_118"
+  - first:
+      213: 2516640538917450744
+    second: "t\xE9l\xE9chargement_119"
+  - first:
+      213: -5768260975540578452
+    second: "t\xE9l\xE9chargement_120"
+  - first:
+      213: -7622390300622068802
+    second: "t\xE9l\xE9chargement_121"
+  - first:
+      213: 4594920815949752037
+    second: "t\xE9l\xE9chargement_122"
+  - first:
+      213: -2138473997260995328
+    second: "t\xE9l\xE9chargement_123"
+  - first:
+      213: -5986023347902076691
+    second: "t\xE9l\xE9chargement_124"
+  - first:
+      213: -3702391288011195149
+    second: "t\xE9l\xE9chargement_125"
+  - first:
+      213: -8117014591145374246
+    second: "t\xE9l\xE9chargement_126"
+  - first:
+      213: -7172745510730460789
+    second: "t\xE9l\xE9chargement_127"
+  - first:
+      213: -7822928407433947200
+    second: "t\xE9l\xE9chargement_128"
+  - first:
+      213: 5391615702608840412
+    second: "t\xE9l\xE9chargement_129"
+  - first:
+      213: -3733745251025069408
+    second: "t\xE9l\xE9chargement_130"
+  - first:
+      213: -611263032632892491
+    second: "t\xE9l\xE9chargement_131"
+  - first:
+      213: -6789675028659076607
+    second: "t\xE9l\xE9chargement_132"
+  - first:
+      213: -6130710122173369750
+    second: "t\xE9l\xE9chargement_133"
+  - first:
+      213: -4940102732438909902
+    second: "t\xE9l\xE9chargement_134"
+  - first:
+      213: -6865972255703187246
+    second: "t\xE9l\xE9chargement_135"
+  - first:
+      213: -4426628908089476369
+    second: "t\xE9l\xE9chargement_136"
+  - first:
+      213: 2247976691657714658
+    second: "t\xE9l\xE9chargement_137"
+  - first:
+      213: -5369885357756571557
+    second: "t\xE9l\xE9chargement_138"
+  - first:
+      213: 7954858325369814233
+    second: "t\xE9l\xE9chargement_139"
+  - first:
+      213: 5182944198719620709
+    second: "t\xE9l\xE9chargement_140"
+  - first:
+      213: -3549843062424132676
+    second: "t\xE9l\xE9chargement_141"
+  - first:
+      213: 348868598381643404
+    second: "t\xE9l\xE9chargement_142"
+  - first:
+      213: -1896744055855384777
+    second: "t\xE9l\xE9chargement_143"
+  - first:
+      213: 7182444975429907139
+    second: "t\xE9l\xE9chargement_144"
+  - first:
+      213: -1879847320010519295
+    second: "t\xE9l\xE9chargement_145"
+  - first:
+      213: -825195794547051229
+    second: "t\xE9l\xE9chargement_146"
+  - first:
+      213: -605509288045118097
+    second: "t\xE9l\xE9chargement_147"
+  - first:
+      213: -2784105323442233176
+    second: "t\xE9l\xE9chargement_148"
+  - first:
+      213: -6121463706586194664
+    second: "t\xE9l\xE9chargement_149"
+  - first:
+      213: 3598951287621747507
+    second: "t\xE9l\xE9chargement_150"
+  - first:
+      213: 7372256603125334238
+    second: "t\xE9l\xE9chargement_151"
+  - first:
+      213: -5373342644928292467
+    second: "t\xE9l\xE9chargement_152"
+  - first:
+      213: -7046355517289681387
+    second: "t\xE9l\xE9chargement_153"
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 2
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_0"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 560
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc287e43ff8423c50800000000000000
+      internalID: 6643452661266350797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_1"
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 560
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cba3dcd8aa5776f0800000000000000
+      internalID: -686980736844846136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_2"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 560
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2630bdc82ca7e80800000000000000
+      internalID: -8180011862939442504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_3"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 560
+        width: 38
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708d1b50bdeeaa900800000000000000
+      internalID: 696631716842952711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_4"
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 560
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80151499a30d37580800000000000000
+      internalID: -8830485494245535480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_5"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 482
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafce26abb534fc50800000000000000
+      internalID: 6698037625870012331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_6"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 500
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a834c36c1a3ffb0800000000000000
+      internalID: -4615167320337970634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_7"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 504
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a33e14ccad66dd50800000000000000
+      internalID: 6761712479335494565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_8"
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 498
+        width: 41
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a463f148e1c0bcd20800000000000000
+      internalID: 3299744477184210506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_9"
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 509
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b114a88b8647870800000000000000
+      internalID: 8679677523652582229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_10"
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 513
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72bdddfb3892690800000000000000
+      internalID: -7626419633891104808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_11"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 512
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df88e9accc9793c70800000000000000
+      internalID: 8951319654855248125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_12"
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 510
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb7e30bb387d6cb0800000000000000
+      internalID: -4869103424362349592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_13"
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 480
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a6095fe6be69950800000000000000
+      internalID: 6455605977680996939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_14"
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 500
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb51d3c3657b2f0800000000000000
+      internalID: -957201579070080155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_15"
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 480
+        width: 71
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6380be6f5e90cc0800000000000000
+      internalID: -3744208766513957196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_16"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 496
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324f59c586619b10800000000000000
+      internalID: 1986481635442246196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_17"
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 480
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c606885f02edff0800000000000000
+      internalID: -9533910281065364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_18"
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 480
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d4b22096255a1510800000000000000
+      internalID: 1520621448306275536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_19"
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 480
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027ef41be46f579a0800000000000000
+      internalID: -6235807291181897952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_20"
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 480
+        width: 43
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325d660947fa86340800000000000000
+      internalID: 4857325113292805411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_21"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 495
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8087c20911a4ba8b0800000000000000
+      internalID: -5139933110419556344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_22"
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 492
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf727a5dd710dc40800000000000000
+      internalID: 5534950181511004094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_23"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 488
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deeadceaa4c9eb8b0800000000000000
+      internalID: -5134494680581558547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_24"
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 487
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260e8c532b1e9a340800000000000000
+      internalID: 4875676227128057954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_25"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 482
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c7b45066becd30800000000000000
+      internalID: 4453697606370445328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_26"
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 482
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec9db20f2d419d60800000000000000
+      internalID: 7895176486061972705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_27"
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 400
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3b3929e2e27c380800000000000000
+      internalID: -8951134956813044782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_28"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3544df72fe4fb70800000000000000
+      internalID: 8932026916014412759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_29"
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 400
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ece599dca3d36ef0800000000000000
+      internalID: -116016426043183897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_30"
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 400
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b57d1f36e42f3010800000000000000
+      internalID: 1170694999459591606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_31"
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 400
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f9975db2bbdc7b0800000000000000
+      internalID: -5202296197603549341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_32"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 320
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aa0142004b57f70800000000000000
+      internalID: 9184444927790066315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_33"
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 320
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fd0720d960c4470800000000000000
+      internalID: 8380080278050234208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_34"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 320
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4ac793c22731a70800000000000000
+      internalID: 8796500031453308152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_35"
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 320
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffddd372971f65120800000000000000
+      internalID: 2402372953900441087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_36"
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 320
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80691df29f330e310800000000000000
+      internalID: 1432201826845955592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_37"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 240
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a4561ef22327b70800000000000000
+      internalID: 8895227395236514393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_38"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 240
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d819a979a3c5730800000000000000
+      internalID: 3989127792751119726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_39"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 259
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd6482ee81860810800000000000000
+      internalID: 1731213557456203220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_40"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 240
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e13d486574dc170800000000000000
+      internalID: 8200288933432729107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_41"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 240
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a26d5c910dfacd00800000000000000
+      internalID: 993884851148776103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_42"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 240
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9410221695f9aac0800000000000000
+      internalID: -3843270782086015844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_43"
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 190
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d69863392b2fda0800000000000000
+      internalID: -5912467015439127235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_44"
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 196
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409438895f8876ed0800000000000000
+      internalID: -2420815686281246460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_45"
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 180
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301be7d18d93661f0800000000000000
+      internalID: -1052089862573870845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_46"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1d087336a69a1c0800000000000000
+      internalID: -4491942178959863330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_47"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 160
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0bae3dd0bec99e0800000000000000
+      internalID: -1613156121883004721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_48"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab7a15d590d30e00800000000000000
+      internalID: 1009880083405110187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_49"
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 179
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfb1d792d8cd8000800000000000000
+      internalID: 39908778531995608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_50"
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 160
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8afb5ca5b77190800000000000000
+      internalID: -7964697664099283596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_51"
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 160
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc21c34e433ac40800000000000000
+      internalID: 5522315722951412925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_52"
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 160
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1504e87ed2e4ae880800000000000000
+      internalID: -8580960180935704495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_53"
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 80
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e259f67be5387cee0800000000000000
+      internalID: -1240878729489574610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_54"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 101
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2358eb64523c63b0800000000000000
+      internalID: -5517980105266670801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_55"
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 83
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60d00fdc8c8a47130800000000000000
+      internalID: 3563658785558891782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_56"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 109
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331c1e165a22af590800000000000000
+      internalID: -7639755724173491917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_57"
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 113
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b613d07553fd516e0800000000000000
+      internalID: -1867341050288459413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_58"
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 112
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c322cd46cfe17a0800000000000000
+      internalID: -6404404109954106237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_59"
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 110
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b76dc4781f4423f0800000000000000
+      internalID: -926528656874051656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_60"
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 80
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c33bb960ca7d390800000000000000
+      internalID: -7793571485759357897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_61"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 82
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cc94264ba6c7280800000000000000
+      internalID: -9044236628691137455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_62"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9441a624c3b41c4b0800000000000000
+      internalID: -5421969754192997303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_63"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 80
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f0615e69eece20800000000000000
+      internalID: 3372889830968062959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_64"
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 80
+        width: 38
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c23fa58040d9e60800000000000000
+      internalID: 7970531349447781389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_65"
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 80
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4abb55ee846e0ae0800000000000000
+      internalID: -1581215854264337846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_66"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 80
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9cb96d7c1bfe2a0800000000000000
+      internalID: -6705945848274236965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "t\xE9l\xE9chargement_67"
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 35
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c44ba30393321f0800000000000000
+      internalID: -1070949407077938146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cfbd8c72a1d57b144ba43ea0ec9dee24
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
